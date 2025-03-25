@@ -8,6 +8,7 @@ Welcome to my GitHub! I'm a detail-oriented developer with a unique blend of fin
 Founder | Developer | Researcher
 - Leading development of AI-powered applications using Google Vertex AI, OpenAI, and Anthropic Claude
 - Building multimodal AI solutions with Python, Flask/FastAPI, and GCP
+- Developed personal portfolio website [lostmindai.com](https://lostmindai.com) using Next.js and Tailwind CSS
 - Managing cross-platform mobile app development with international team
 - Specializing in financial process automation and AI integration
 
