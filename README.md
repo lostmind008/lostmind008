@@ -2,11 +2,40 @@
 
 Welcome to my GitHub! I'm a detail-oriented developer with a unique blend of finance and IT expertise, currently focused on building AI-powered solutions that enhance productivity and automate complex workflows. My approach combines thorough analysis with practical implementation, ensuring each project delivers real value.
 
-## 🎯 Current Focus
+## 🚀 Professional Journey
 
-- 🤖 Building **LostMind AI** - A suite of AI-powered tools for productivity and automation
-- 🌐 Developing [lostmindai.com](https://lostmindai.com) using Next.js and Tailwind CSS
-- 🔄 Transitioning from Finance/Accounting to IT, bringing unique business insights to technical solutions
+### Current: LostMind AI (July 2024 - Present)
+Founder | Developer | Researcher
+- Leading development of AI-powered applications using Google Vertex AI, OpenAI, and Anthropic Claude
+- Building multimodal AI solutions with Python, Flask/FastAPI, and GCP
+- Managing cross-platform mobile app development with international team
+- Specializing in financial process automation and AI integration
+
+### Previous Roles:
+- 🏢 **Mirvac** (2023-2024): Solution Analyst & MRI SME
+  - Led MRI to Yardi Voyager transition
+  - Resolved critical integration issues
+  - Optimized reporting with SQL
+  
+- 📊 **Knight Frank Australia** (2015-2022): NSW Finance Manager & Portfolio Accountant
+  - Led NSW Property Accounting Service Team
+  - Managed complex system transitions
+  - Developed SQL-based financial analytics
+
+- 💼 **Previous Experience**: CBRE, JLL, Yum! Restaurants
+  - Progressive roles in financial management
+  - System optimization and process improvement
+
+## 🤖 AI-Driven Development Approach
+
+My transition into AI development is grounded in thorough understanding and practical application:
+
+- 📚 **Documentation First**: Extensive study of APIs, ML articles, and technical documentation
+- 🔄 **Systematic Learning**: Building from fundamentals to advanced implementations
+- 💡 **Strategic Tool Selection**:
+  - Primary: Google Vertex AI (Gemini) - Chosen for large context windows and GCP integration
+  - Secondary: Anthropic Claude - Preferred for complex reasoning
+- 🎯 **Business-Focused Solutions**: Leveraging financial domain expertise in AI implementations
 
 ## 🛠️ Featured Projects
 
@@ -14,82 +43,84 @@ Welcome to my GitHub! I'm a detail-oriented developer with a unique blend of fin
 
 #### [LostMind AI Solutions](https://github.com/lostmind008/lostMind-ai-solutions-pyqt6)
 - Modern PyQt6-based AI applications suite
-- Integration with multiple AI providers (Gemini, OpenAI, Anthropic)
-- Focus on user experience and practical utility
+- Multimodal AI chatbot with Gemini, OpenAI, and Claude integration
+- Focus on practical business automation
 
 #### [YouTube Summarizer](https://github.com/lostmind008/youtube-summariser)
 - AI-powered video content analysis
 - Automatic summary generation
 - Integration with Google's Gemini API
-- Practical tool for content research and learning
 
 ### Media Processing Tools
 
 #### [Advanced Media Converter](https://github.com/lostmind008/advanced-media-converter)
 - Comprehensive audio processing application
 - GUI interface for user-friendly operation
-- Advanced file manipulation capabilities
 - Batch processing support
 
 #### [Media Converter API](https://github.com/lostmind008/media-converter-api)
 - FastAPI backend for media conversion
 - RESTful architecture
-- Scalable and efficient processing
 - Modern API design principles
-
-#### [Advanced Media Downloader](https://github.com/lostmind008/advanced-media-downloader-gradio)
-- Gradio-based interface for media downloads
-- User-friendly design
-- Multiple format support
-- Progress tracking and error handling
 
 ## 💻 Tech Stack
 
-### Core Technologies
 ```python
 TECH_STACK = {
-    "Languages": ["Python", "TypeScript", "JavaScript"],
-    "Web_Development": ["React", "Next.js", "FastAPI", "Tailwind CSS"],
-    "AI_Integration": ["Vertex AI", "Gemini API", "OpenAI", "Anthropic"],
-    "Cloud_Platforms": ["Google Cloud", "AWS", "Azure"],
-    "UI_Frameworks": ["PyQt6", "Gradio", "Tkinter"],
-    "Data_Processing": ["Pandas", "NumPy", "Tabula-Py"],
-    "Version_Control": ["Git", "GitHub"]
+    "AI_&_ML": [
+        "Google Vertex AI (Gemini Models)",
+        "OpenAI API",
+        "Anthropic Claude API",
+        "NLP",
+        "Prompt Engineering"
+    ],
+    "Programming": [
+        "Python",
+        "SQL",
+        "Microsoft SQL Server"
+    ],
+    "Web_Development": [
+        "FastAPI",
+        "Flask",
+        "Streamlit"
+    ],
+    "Business_Systems": [
+        "MRI",
+        "MRI X",
+        "Yardi Voyager"
+    ],
+    "Cloud_&_DevOps": [
+        "Google Cloud Platform",
+        "Docker",
+        "GitHub Actions (planned)"
+    ],
+    "Data_Processing": [
+        "tabula-py",
+        "Data Randomization/Anonymization",
+        "Excel VBA"
+    ]
 }
 ```
 
-### Business Systems Expertise
-- **ERP Systems**: MRI (Expert), Yardi (Experienced)
-- **Process Automation**: Python scripts for financial data extraction
-- **System Integration**: Bridging business systems with modern tech
+## 🎓 Education & Background
 
-## 🌟 Professional Background
-
-- 🏢 IT Support & MRI SME at Mirvac
-- 📊 Finance Manager at Knight Frank
-- 💼 Senior Client Accountant at CBRE
-- 📈 Assistant Accountant at JLL
-
-## 🎯 What I'm Learning
-
-- 🤖 Advanced AI model integration
-- ☁️ Cloud architecture and deployment
-- 🌐 Full-stack web development
-- 📊 Data processing optimization
+- 🎓 Bachelor of Commerce - Accounting (Macquarie University)
+- 📊 10+ years in Finance & Accounting
+- 💻 Transition to IT & AI Development
+- 🌱 Continuous learner in ML & Cloud Technologies
 
 ## 📫 Connect With Me
 
 - 🌐 Website: [lostmindai.com](https://lostmindai.com) (Coming Soon)
-- 📧 Email: sumit.mondal@lostmindai.com
 - 📍 Location: Sydney, Australia
 
 ## 🤝 Open to Collaboration
 
 I'm particularly interested in projects involving:
 - AI integration and automation
-- Business process optimization
-- Financial technology solutions
-- Media processing tools
+- Financial process optimization
+- Business system modernization
+- Cloud-based solutions
 
 ---
 
