@@ -169,7 +169,7 @@ I'm passionate about:
 
 ### Get in Touch
 - Portfolio: [lostmindai.com](https://lostmindai.com)
-- LinkedIn: [Connect with me](https://linkedin.com/in/sumit-mondal)
+- LinkedIn: [Connect with me](https://www.linkedin.com/in/sumit-mondal-3974b520a/)
 - Email: [Contact me](mailto:sumit.mondal@lostmindai.com)
 
 ---
